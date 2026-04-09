@@ -68,7 +68,7 @@ session_start();
             </div>
         </div>
     </nav>
-    <!-- calling cart function -->
+   
     <?php
     cart();
     ?>
